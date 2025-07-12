@@ -1,4 +1,4 @@
-# Daily JS
+# 🎯 Daily JS (10 Days Goal)
 
 - [x] 5% 
 - [ ] 10% 
